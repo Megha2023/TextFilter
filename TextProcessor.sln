@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextProcessor", "TextProcessor\TextProcessor.csproj", "{5520FC77-BFF7-474F-AD56-D2E17EE991A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextProcessor.UnitTests", "TextProcessor.UnitTests\TextProcessor.UnitTests.csproj", "{0FDFAFBB-F5EF-481E-BCD8-97FDFA11234D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5520FC77-BFF7-474F-AD56-D2E17EE991A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5520FC77-BFF7-474F-AD56-D2E17EE991A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5520FC77-BFF7-474F-AD56-D2E17EE991A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5520FC77-BFF7-474F-AD56-D2E17EE991A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FDFAFBB-F5EF-481E-BCD8-97FDFA11234D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FDFAFBB-F5EF-481E-BCD8-97FDFA11234D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FDFAFBB-F5EF-481E-BCD8-97FDFA11234D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FDFAFBB-F5EF-481E-BCD8-97FDFA11234D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {203ACFE9-7F66-4CC4-A534-180746D71237}
+	EndGlobalSection
+EndGlobal
